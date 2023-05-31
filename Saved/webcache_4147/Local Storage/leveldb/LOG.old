@@ -1,0 +1,37 @@
+2023/05/30-20:48:04.954 4618 Reusing MANIFEST D:/ProyectoChile/Version_oficial1/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2023/05/30-20:49:26.080 328 Level-0 table #5: started
+2023/05/30-20:49:26.084 328 Level-0 table #5: 47934 bytes OK
+2023/05/30-20:49:26.085 328 Delete type=0 #3
+2023/05/30-20:49:52.990 328 Level-0 table #7: started
+2023/05/30-20:49:52.994 328 Level-0 table #7: 45190 bytes OK
+2023/05/30-20:49:52.995 328 Delete type=0 #4
+2023/05/30-20:50:33.574 328 Level-0 table #9: started
+2023/05/30-20:50:33.578 328 Level-0 table #9: 47635 bytes OK
+2023/05/30-20:50:33.580 328 Delete type=0 #6
+2023/05/30-20:50:53.330 328 Level-0 table #11: started
+2023/05/30-20:50:53.334 328 Level-0 table #11: 49481 bytes OK
+2023/05/30-20:50:53.335 328 Delete type=0 #8
+2023/05/30-20:51:52.777 328 Level-0 table #13: started
+2023/05/30-20:51:52.782 328 Level-0 table #13: 48165 bytes OK
+2023/05/30-20:51:52.783 328 Delete type=0 #10
+2023/05/30-20:53:27.875 328 Level-0 table #15: started
+2023/05/30-20:53:27.889 328 Level-0 table #15: 48651 bytes OK
+2023/05/30-20:53:27.890 328 Delete type=0 #12
+2023/05/30-20:53:27.930 328 Compacting 4@0 + 1@1 files
+2023/05/30-20:53:27.935 328 Generated table #16@0: 3 keys, 4813 bytes
+2023/05/30-20:53:27.935 328 Compacted 4@0 + 1@1 files => 4813 bytes
+2023/05/30-20:53:27.936 328 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/30-20:53:27.937 328 Delete type=2 #7
+2023/05/30-20:53:27.937 328 Delete type=2 #9
+2023/05/30-20:53:27.937 328 Delete type=2 #11
+2023/05/30-20:53:27.937 328 Delete type=2 #13
+2023/05/30-20:53:27.937 328 Delete type=2 #15
+2023/05/30-20:55:24.052 328 Level-0 table #18: started
+2023/05/30-20:55:24.055 328 Level-0 table #18: 52693 bytes OK
+2023/05/30-20:55:24.056 328 Delete type=0 #14
+2023/05/30-21:00:49.430 328 Level-0 table #20: started
+2023/05/30-21:00:49.434 328 Level-0 table #20: 59432 bytes OK
+2023/05/30-21:00:49.435 328 Delete type=0 #17
+2023/05/30-21:01:13.420 328 Level-0 table #22: started
+2023/05/30-21:01:13.426 328 Level-0 table #22: 130333 bytes OK
+2023/05/30-21:01:13.427 328 Delete type=0 #19

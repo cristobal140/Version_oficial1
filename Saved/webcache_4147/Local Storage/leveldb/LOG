@@ -1,0 +1,15 @@
+2023/05/31-17:47:47.339 4384 Reusing MANIFEST C:/Users/bastian/Documents/Unreal Projects/Version_oficial1/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2023/05/31-17:47:47.339 4384 Recovering log #21
+2023/05/31-17:47:47.339 4384 Reusing old log C:/Users/bastian/Documents/Unreal Projects/Version_oficial1/Saved/webcache_4147\Local Storage\leveldb/000021.log 
+2023/05/31-17:48:27.183 1738 Level-0 table #25: started
+2023/05/31-17:48:27.187 1738 Level-0 table #25: 78908 bytes OK
+2023/05/31-17:48:27.188 1738 Delete type=0 #21
+2023/05/31-17:48:27.188 1738 Compacting 4@0 + 1@1 files
+2023/05/31-17:48:27.191 1738 Generated table #26@0: 11 keys, 71688 bytes
+2023/05/31-17:48:27.191 1738 Compacted 4@0 + 1@1 files => 71688 bytes
+2023/05/31-17:48:27.192 1738 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/31-17:48:27.192 1738 Delete type=2 #16
+2023/05/31-17:48:27.192 1738 Delete type=2 #18
+2023/05/31-17:48:27.192 1738 Delete type=2 #20
+2023/05/31-17:48:27.192 1738 Delete type=2 #22
+2023/05/31-17:48:27.192 1738 Delete type=2 #25
